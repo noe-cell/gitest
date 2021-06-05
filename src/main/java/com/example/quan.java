@@ -9,7 +9,7 @@ public class quan {
         System.out.println("master test");
         System.out.println("hot-fix tesst");
         System.out.println("push test");
-          System.out.println("push test");
+          System.out.println("gitee test");
 
 
     }
